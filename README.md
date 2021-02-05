@@ -1,4 +1,4 @@
-<a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" width="300"/></a>
+[![MCHP](images/microchip.png)](https://www.microchip.com)
 
 # PIC18F47Q10 Using TMR2 as Alternate SPI clock
 
@@ -31,7 +31,7 @@ The following pin configurations must be made for this project:
 |Pin           | Configuration     |
 | :----------: | :---------------: |
 |RC3           | Digital output SCK  |
-|RC4           | Digital input SDI  |
+|RC4           | Digital input SDI   |
 |RC5           | Digital output SDO  |
 |RC6           | Digital output SS1  |
 |RC7           | Digital output SS2  |
